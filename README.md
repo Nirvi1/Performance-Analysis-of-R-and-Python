@@ -15,7 +15,7 @@ Instead of getting file contents all at once, I am reading specific rows from th
 Time taken to read , process , filter data in R : 12 seconds 
 Time taken to read , process , filter data in Python : 25 seconds 
 
-#Conclusion based these two experiments
+# Conclusion based these two experiments
 •	Filtering data is more fast in R than python. 
 •	Reading data is faster in python if reading complete file.
 •	With 75+75MB =150MB it takes 0.09 seconds to filter columns  than in python that takes 0.35 seconds 
